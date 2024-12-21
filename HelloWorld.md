@@ -12,8 +12,9 @@ plot(speed ~ dist)
 abline(model)
 ```
 
-![](HelloWorld_files/figure-gfm/unnamed-chunk-1-1.png)<!-- --> We can
-even get the model summary!
+![](HelloWorld_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+We can even get the model summary!
 
 ``` r
 summary(model)
@@ -37,3 +38,7 @@ summary(model)
     ## Residual standard error: 3.156 on 48 degrees of freedom
     ## Multiple R-squared:  0.6511, Adjusted R-squared:  0.6438 
     ## F-statistic: 89.57 on 1 and 48 DF,  p-value: 1.49e-12
+
+Does Latex work?
+
+$$e=mc^2$$
