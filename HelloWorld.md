@@ -12,8 +12,9 @@ plot(speed ~ dist)
 abline(model)
 ```
 
-![](HelloWorld_files/figure-gfm/unnamed-chunk-1-1.png)<!-- --> We can
-even get the model summary!
+![](HelloWorld_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+We can even get the model summary!
 
 ``` r
 summary(model)

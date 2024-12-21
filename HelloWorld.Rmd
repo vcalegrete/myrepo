@@ -13,7 +13,8 @@ model <- lm(speed ~ dist)
 plot(speed ~ dist)
 abline(model)
 ```
-\n We can even get the model summary!
+
+We can even get the model summary!
 
 ```{r}
 summary(model)
