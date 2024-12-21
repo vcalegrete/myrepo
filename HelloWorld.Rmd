@@ -20,6 +20,8 @@ We can even get the model summary!
 summary(model)
 ```
 
-Does Latex work?
+Does Latex work? 
 
 $$e=mc^2$$
+
+Nice!

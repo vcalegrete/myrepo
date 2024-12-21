@@ -42,3 +42,5 @@ summary(model)
 Does Latex work?
 
 $$e=mc^2$$
+
+Nice!
